@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Hi Mr. Murari Lal - ek number ka maal</h1>
-    <p>Please fill the for to to do whatever you want</p>
+    <h1>Hi Juergen - Welcome to the docker deployment using Jenkins Continuous integration</h1>
+    <p>Please fill the form - This is just a dummy applition just for testing</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
