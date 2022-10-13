@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Hello jkhkjhk All - Welcome to the docker deployment using Jenkins Continuous integration</h1>
+    <h1>Hell All - Welcome to the docker deployment using Jenkins Continuous integration</h1>
     <p>Please fill the form - This is just a dummy applition just for testing</p>
     <hr>
      
