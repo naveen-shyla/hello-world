@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Hello Everyone - Please welcome to the docker container deployment using Jenkins Continuous integration</h1>
+    <h1>Hello Everyone - Deployment using Ansbile playbook</h1>
     <p>Please fill the form - This is just a dummy applition just for testing</p>
     <hr>
      
