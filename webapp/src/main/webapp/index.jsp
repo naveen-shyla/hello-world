@@ -4,7 +4,7 @@
     <p>Please fill the form - This is just a dummy applition just for testing</p>
     <hr>
      
-    <label for="Name"><b>Enter Name</b></label>
+    <label for="Enter your Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
